@@ -1,0 +1,38 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 5vh auto;
+    padding: 2rem;
+    border: 2px solid #fff;
+    border-radius: 20px;
+    background-color: #1a1a1a;
+}
+
+section {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 2px solid #fff;
+    border-radius: 15px;
+}
+
+.intro {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+.prompt {
+    text-align: center;
+    font-style: italic;
+}
