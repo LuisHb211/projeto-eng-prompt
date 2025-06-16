@@ -8,7 +8,7 @@ Este é um projeto Django simples que exibe uma página com texto introdutório 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/LuisHb211/projeto-eng-prompt.git](https://github.com/LuisHb211/projeto-eng-prompt.git)
     cd seu-repositorio
     ```
 
@@ -16,7 +16,7 @@ Este é um projeto Django simples que exibe uma página com texto introdutório 
 
     * **Linux / macOS:**
         ```bash
-        python -m venv venv
+        python3 -m venv venv
         source venv/bin/activate
         ```
 
